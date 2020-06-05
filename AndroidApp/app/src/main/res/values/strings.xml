@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="edit_hint">Enter message</string>
+    <string name="hint_ip">IP address</string>
+</resources>
+<!--<resources>-->
+    <!--<string name="app_name">MyApp</string>-->
+<!--</resources>-->

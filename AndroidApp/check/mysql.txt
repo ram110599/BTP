@@ -1,0 +1,8 @@
+For opening mysql from terminal
+
+Use Command: mysql -u root -p
+password: abhi12345
+
+Show databases: show databases;
+Use a database having name db: use db;
+Create a database having name db: CREATE DATABASE db;  

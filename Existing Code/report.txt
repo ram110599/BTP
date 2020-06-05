@@ -1,0 +1,6 @@
+Added a file for subscriber listening to publisher messages.
+
+Applications can communicate via connection oriented or connectionless manner to each other over a network.
+In connection oriented communication resource allocation is needed before communication, which leads to under-utilization of network resources.
+
+In other words, pub-sub is a pattern used to communicate messages between different system components without these components knowing anything about each other’s identity.
